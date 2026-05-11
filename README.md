@@ -6,12 +6,30 @@ Will add required notes and code for this book -
 
 #### Topics
 - Go code basics
+  - Go concepts - Data types, functions, flow control, GC, Object orientation
 - Design patterns in Go (Creational, Structural, Behavioural)
+  - SOLID
+  - Creational
+  - Structural
+  - Behavioural
 - Scaling algorithms
+  - C10K problem
+  - Thundering herd problem
+  - Profiling of code
+  - Algorithms complexity and code
+  - Memory Usage
 - Distributed systems concepts in Go
+  - Consistency
+  - Consensus
 - Messaging (Async)
+  - Apache kafka
+  - Messaging Integration pattern
 - Building APIs in Go (REST, GraphQL)
+  - Gin
+  - REST Structure
 - Modeling Data (RDBMS with Go)
 - Anti-fragile systems
 - Case study
 - Deployment & Migration
+
+
